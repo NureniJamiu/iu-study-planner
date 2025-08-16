@@ -54,3 +54,7 @@ coverage/
 # Temporary folders
 tmp/
 temp/
+
+# markdown files except readme
+*.md
+!README.md
